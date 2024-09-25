@@ -1,0 +1,2 @@
+django
+python_deriv_api
